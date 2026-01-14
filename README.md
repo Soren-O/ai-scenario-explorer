@@ -1,5 +1,7 @@
 # AI Scenario Explorer
 
+**[Try it live](https://ai-scenario-explorer.vercel.app)**
+
 An interactive web application for exploring AI development scenarios and timelines. Built with Next.js, React, TypeScript, and Tailwind CSS.
 
 ## Overview
@@ -112,7 +114,7 @@ Future contributors can:
 
 ## License
 
-ISC
+This project is released into the public domain under the [Unlicense](./UNLICENSE).
 
 ## Acknowledgments
 
